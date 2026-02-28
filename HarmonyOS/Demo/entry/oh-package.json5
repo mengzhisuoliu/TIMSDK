@@ -1,12 +1,12 @@
 {
   name: "entry",
-  version: "8.9.7511",
+  version: "8.9.7515",
   description: "Demo for Tencent IM SDK",
   main: "",
   author: "",
   license: "",
   dependencies: {
-    "@tencentcloud/imsdk": "file:./imsdk-ohos-8.9.7511.har",
+    "@tencentcloud/imsdk": "file:./imsdk-ohos-8.9.7515.har",
   },
   devDependencies: {
     pako: "^2.1.0",
