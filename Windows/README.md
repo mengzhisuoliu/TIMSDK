@@ -1,8 +1,17 @@
 English | [简体中文](./README_ZH.md)
 
-- [Quick Integration with IM SDK for Windows](https://intl.cloud.tencent.com/document/product/1047/34310) and [Demo Quick Start](https://intl.cloud.tencent.com/document/product/1047/45914)
+# Tencent Chat SDK — Windows
 
-On the Windows platform, if you call the [TIMInit](https://intl.cloud.tencent.com/document/product/1047/34388#timinit) API to initialize the IM SDK after a UI message loop is created and the thread for calling the [TIMInit](https://intl.cloud.tencent.com/document/product/1047/34388#timinit) API is the main UI thread, the IM SDK will throw the callback to the main UI thread to call.
+[![GitHub Stars](https://img.shields.io/github/stars/TencentCloud/TIMSDK?style=flat-square&logo=github)](https://github.com/TencentCloud/TIMSDK/stargazers)
 
+## About
 
-[Documentation](https://intl.cloud.tencent.com/document/product/1047/34549)
+Tencent Chat SDK powers billions of messages daily across Tencent's ecosystem. Use the **Core SDK** to build your own UI on top of a battle-tested messaging infrastructure.
+
+## Get Started
+
+| Type | GitHub | Integration Guide |
+|---|---|---|
+| **Windows Core SDK** (no UI) | [TIMSDK / Windows](https://github.com/TencentCloud/TIMSDK/tree/master/Windows/IMSDK) | [SDK Integration (Windows)](https://trtc.io/document/34310) |
+
+> Tencent Chat SDK offers a **[free plan](https://trtc.io/free-chat-api)** — 1,000 MAU/month, no concurrency limits, push notifications included, free forever.
