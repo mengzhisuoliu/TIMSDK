@@ -1,16 +1,13 @@
-[English](./README.md)|简体中文
+[English](./README.md) | 简体中文
 
-##### 1. 腾讯云即时通信 IM UE5版本源码
+# Tencent Chat SDK — Unreal Engine 5
 
-[Chat-plugin-ue5](https://github.com/TencentCloud/chat-plugin-ue5)
+> ⚠️ **此目录已停止维护。**
+>
+> 请使用以下独立仓库和集成文档。
 
-##### 2. TIMPush
+## 快速开始
 
-[Push 服务](https://cloud.tencent.com/document/product/269/100621)
-
-[Push demo](https://github.com/TencentCloud/TIMSDK/tree/master/UE5/Push/pushdemo) （UE 环境：5.6.0）
-
-##### 联系我们
-
-[zhiliao](https://zhiliao.qq.com/)
-
+| 类型 | GitHub | 集成文档 |
+|---|---|---|
+| **UE5 Core SDK** | [chat-plugin-ue5](https://github.com/TencentCloud/chat-plugin-ue5) | [UE5 SDK 集成](https://cloud.tencent.com/document/product/269/75290) |
