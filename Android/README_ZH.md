@@ -32,16 +32,4 @@ Tencent Chat SDK 每日承载数十亿条消息，植根于腾讯生态。接入
 [<img src="https://im.sdk.qcloud.com/tools/resource/GitHubResource/build_android_chat_app.png" width="800"/>](https://www.youtube.com/watch?v=7UI7a9e8lek)
 
 
-## 快速链接
 
-- 🤖 [AI 能力接入](https://trtc.io/document/72277)
-- 📡 [REST API 文档](https://trtc.io/document/34620?product=chat&menulabel=restfulapi)
-- 🏠 [产品主页](https://trtc.io/products/chat)
-- 🖥️ [控制台](https://console.trtc.io)
-
-## 联系我们
-
-- **Stack Overflow**：使用标签 [`trtc.io`](https://stackoverflow.com/questions/tagged/trtc.io) 提问
-- **Telegram**：[加入开发者社区](https://t.me/+EPk6TMZEZMM5OGY1)
-- **WhatsApp**：[联系我们的团队](https://chat.whatsapp.com/Gfbxk7rQBqc8Rz4pzzP27A)
-- **GitHub Issues**：[提交 Bug 或功能建议](https://github.com/TencentCloud/TIMSDK/issues)
