@@ -1,17 +1,12 @@
-[English](./README.md)|简体中文
+[English](./README.md) | 简体中文
 
-#### 腾讯云即时通信IM Electron版本源码
+# Tencent Chat SDK — Electron
 
-##### demo源码GitHub地址
+> ⚠️ **此目录已停止维护。**
+>
+> Electron 应用建议使用以下基于 Web 的 UIKit 方案：
 
-[Chat-demo-electron](https://github.com/TencentCloud/chat-demo-electron)
-
-##### 无UI SDK GitHub地址
-
-[Chat-sdk-electron](https://github.com/TencentCloud/chat-sdk-electron)
-
-
-##### 联系我们
-
-[zhiliao](https://zhiliao.qq.com/)
-
+| 框架 | GitHub | npm | 集成文档 |
+|---|---|---|---|
+| **Vue UIKit** | [chat-uikit-vue](https://github.com/TencentCloud/chat-uikit-vue) | [`@tencentcloud/chat-uikit-vue`](https://www.npmjs.com/package/@tencentcloud/chat-uikit-vue) | [集成指南](https://cloud.tencent.com/document/product/269/123108) |
+| **React UIKit** | [chat-uikit-react](https://github.com/TencentCloud/chat-uikit-react) | [`@tencentcloud/chat-uikit-react`](https://www.npmjs.com/package/@tencentcloud/chat-uikit-react) | [集成指南](https://cloud.tencent.com/document/product/269/83749) |
