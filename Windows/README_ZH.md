@@ -1,8 +1,17 @@
 [English](./README.md) | 简体中文
 
-- Windows 快速开始 [集成 SDK](https://cloud.tencent.com/document/product/269/33489) 和 [跑通 demo](https://cloud.tencent.com/document/product/269/33488)。
+# Tencent Chat SDK — Windows
 
-- Windows 平台，如果调用 [TIMInit](https://cloud.tencent.com/document/product/269/33546#timinit) 接口进行初始化 Imsdk 之前，已创建了 UI 的消息循环，且调用 [TIMInit](https://cloud.tencent.com/document/product/269/33546#timinit) 接口的线程为主 UI 线程，则 IM SDK 内部会将回调放到主 UI 线程触发。
+[![GitHub Stars](https://img.shields.io/github/stars/TencentCloud/TIMSDK?style=flat-square&logo=github)](https://github.com/TencentCloud/TIMSDK/stargazers)
+
+## 关于
+
+Tencent Chat SDK 每日承载数十亿条消息，植根于腾讯生态。选用 **Core SDK**，在经过大规模验证的消息基础设施之上构建专属 UI。
+
+## 快速开始
+
+| 类型 | GitHub | 集成文档 |
+|---|---|---|
+| **Windows Core SDK**（无 UI） | [TIMSDK / Windows](https://github.com/TencentCloud/TIMSDK/tree/master/Windows/IMSDK) | [Windows SDK 集成](https://cloud.tencent.com/document/product/269/75287) |
 
 
-[官方使用文档](https://cloud.tencent.com/document/product/269/33543)
