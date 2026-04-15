@@ -28,18 +28,4 @@ Tencent Chat SDK powers billions of messages daily across Tencent's ecosystem. D
 
 [<img src="https://im.sdk.qcloud.com/tools/resource/GitHubResource/build_ios_chat_app.png" width="800"/>](https://www.youtube.com/watch?v=th3PHoZkRl4)
 
-## Quick Links
 
-- 🤖 [Build with AI](https://trtc.io/document/72277) — Integrate AI capabilities into your chat experience
-- 🎮 [Live Demo](https://trtc.io/demo/homepage/#/detail?scene=messenger) — Try Tencent Chat SDK in your browser
-- 📡 [REST API Reference](https://trtc.io/document/34620?product=chat&menulabel=restfulapi) — Server-side APIs for user management, messaging, and more
-- 🏠 [Product Home](https://trtc.io/products/chat) — Overview, pricing, and enterprise features
-- 🖥️ [Console](https://console.trtc.io) — Manage your applications and monitor usage
-- 🔄 [Chat SDK V2 API Upgrade Guide](https://docs.qq.com/sheet/DS3lMdHpoRmpWSEFW)
-
-## Contact Us
-
-- **Stack Overflow**: Tag your questions with [`trtc.io`](https://stackoverflow.com/questions/tagged/trtc.io)
-- **Telegram**: [Join our developer community](https://t.me/+EPk6TMZEZMM5OGY1)
-- **WhatsApp**: [Chat with our team](https://chat.whatsapp.com/Gfbxk7rQBqc8Rz4pzzP27A)
-- **GitHub Issues**: [Report a bug or request a feature](https://github.com/TencentCloud/TIMSDK/issues)
